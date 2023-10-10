@@ -3,3 +3,7 @@ Building an HTTP API using the Azure Functions extension for Visual Studio Code.
 
 # Azure Cloud Shell
 In Azure Cloud Shell, you can access and manipulate files on your Azure Cloud Shell instance, but you cannot directly access files on your local machine or the C drive of your local machine. Azure Cloud Shell runs in a virtual machine in the Azure cloud, and it doesn't have direct access to your local file system.You can upload files from your local machine to Azure blob storage and access it from there.
+
+
+#REST API's
+Pattern makes API clean and intuitive.
